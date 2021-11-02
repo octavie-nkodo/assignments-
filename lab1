@@ -1,0 +1,27 @@
+
+1) “Software Engineering is part of System Engineering Process”. Do you agree with the above statement? Justify your answer
+
+2) What is “Software Crisis”?
+
+3) What are the professional responsibilities of a Software Engineer?
+
+4) “Component-based Software Engineering allows faster delivery”. State whether this statement is true or false. Justify your answer.
+
+                 Answers
+
+1) software engineering is not part of the systems engineering process.
+The conduct of systems engineering planning does not require knowledge or training in the physical sciences.
+Inputs from those using systems engineering is based on the traditional areas of engineering.
+ 
+2) software crisis is a term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time.
+
+3) analyse user requirements 
+- write and test codes, refining and rewriting it as necessary and communicate with any programmers involved in the project.
+- write operational documentation with technical authors 
+- maintain systems by monitoring and correcting software defects
+- develop existing programs by analyzing and identifying areas for modification 
+- investigate new technologies 
+- evaluate the software and systems that make computers and hardware work
+
+4) true
+Due to the previously tested components they produce more reliable system at a faster rate

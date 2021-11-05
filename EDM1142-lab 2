@@ -1,0 +1,40 @@
+1) Propose the most appropriate generic software process model that might be used as a basis for the development of following systems. Give reasons for your answers.
+
+a) A complex real-time system whose requirements can be relatively easily identified and are stable.
+
+b) A web-site for a local library. Requirements are vague and are likely to change in the future.
+
+c) An order processing system with a web-site for a local business. Requirements are vague but stable (i.e. unlikely to change in the near future).
+
+2) Describe the software process model that you have proposed in question 5(a) highlighting its strengths and weaknesses.
+    
+                       Answers
+1)
+a) The spiral model 
+It is mainly used for large projects. It allows development teams and include user feedback early on and create highly customized product and handles risk management.
+
+b) the agile approach 
+Since the requirements are likely to change or continually adapt to meet the ever changing needs of users, agile approach is the best because of its ability to be flexible and respond quickly.
+Adopting an agile approach to collection development maximize the impact of library financial resources and enables staff develop new skills
+
+c) waterfall model
+Since requirements are unlikely to change in future, waterfall model is the best choice since it does not permit going back to previous stages of development to rectify or implement changes and it is best for small and mid size projects
+
+Spiral model
+Combines the idea of iterative development with the systematic, controlled aspect of waterfall model
+It is the waterfall model with high level of emphasis on risk analysis
+Allows incremental releases of the product
+It has four phases that is identification, design,construct or build, evaluation and risk management.
+Advantages include:
+Changing requirements can be accommodated 
+Allows extensive use of prototypes
+Requirements can be captured more accurately 
+Users see the system early 
+Disadvantages include :
+Management is more complex
+End of the project may not be known early 
+Process is complex
+Not suitable for small or low risk projects and could be expensive for small projects 
+Spiral may go on indefinitely
+Large number of intermediate stages requires excessive documentation.
+
